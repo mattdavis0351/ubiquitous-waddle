@@ -1,6 +1,6 @@
 name: Mark stale issues and pull requests weekly
 
-on:
+on: ['day']
 
 jobs:
   stale:
